@@ -7,6 +7,7 @@ You can change:
 base_url
 
 base_url = 'https://{}.github.io/wdd131/styles/place.css'
+
 base_url = 'https://{}.github.io/wdd131/place.html'
 
 similarity percentage
