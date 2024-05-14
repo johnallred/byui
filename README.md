@@ -1,4 +1,6 @@
 # byui
+This will compare each student's file to every other student's file and report the places where there is greater than 90% match.
+
 At a bare minimum, you need to add your student's github ids to names = []
 
 You can change base_url:
