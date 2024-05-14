@@ -67,6 +67,6 @@ def compare_all(names):
 
 names = [
     'student_github_id_1', 'student_github_id_2'
-    ]
+]
 
 compare_all(names)
