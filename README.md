@@ -1,21 +1,25 @@
 # byui
+At a bare minimum, you need to add your student's github ids to names = []
 
-python compare.py
+You can change base_url:
 
-You can change:
+Examples:
 
-base_url
+check css
 
 base_url = 'https://{}.github.io/wdd131/styles/place.css'
 
+check html
+
 base_url = 'https://{}.github.io/wdd131/place.html'
 
-similarity percentage
+You can also change similarity percentage:
 
 if similarity > 90:
 
-student github ids
+Run from terminal:
 
-names = [
-    'gacunach', 'saintworld09'
-]
+python compare.py
+
+
+

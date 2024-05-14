@@ -66,15 +66,7 @@ def compare_all(names):
         print(f'{name1} and {name2} are {similarity:.2f}% similar.')
 
 names = [
-    'gacunach', 'saintworld09', 'gino004', 'tedking1', 'barazaj', 'gabrielchboff', 'abby996', 'araalijb', 'educalle23', 
-    'tycannon1', 'ldsrixiered', 'ohangl', 'sabrinacloud', 'argie25', 'timi-daramola', 'aleloliv', 'letmahomed', 'ryanearwood', 
-    'akanimo47', 'emmanuel1539', 'devemmanuel1', 'freicode', 'Iftikaar', 'tocodevictor1995', 'lautaro-guevara', 'charissehl', 
-    'brandonmherrin', 'xanderbholden', 'rjam16', 'jegs01', 'arceejuanarcee', 'antoinempinga', 'ericyaok', 'atlahs2000', 'ldswaiwai', 
-    'anmaloma', 'julian-maccaferri', 'alexmach10', 'myjeeyoungm78', 'erin-major', 'myamiki', 'lmatola', 'legendaryemp', 
-    'mahonrrimendez', 'anasabinomonteiro', 'moorev1', 'ta10da13', 'oluwajohnson', 'ernestsb1', 'rorellana-b', 'alexanderpacherrez', 
-    'kate-paletta', 'lilwoodsgh', 'jean-peregrino', 'justaparrot', 'andrevivs', 'micrand', 'mahonriray', 'gerardalessandrov', 
-    'diegorodriguez-sc', 'curtissiahe18', 'joashpt', 'adtaylor38', 'francktshibala', 'udodavid', 'jorgevaoli', 'jvedrson', 
-    'villalba-mauro', 'tiffanyvoorhees2500', 'hieusstorm', 'eworsham', 'shewandagns', 'nicolezeg', 'wiselinda'
-]
+    'student_github_id_1', 'student_github_id_2'
+    ]
 
 compare_all(names)
